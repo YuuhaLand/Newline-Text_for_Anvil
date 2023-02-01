@@ -1,0 +1,30 @@
+{
+  "multiline_text_edit_control@common.multiline_text_edit_box": {
+    "anchor_from": "left_middle",
+    "anchor_to": "left_middle",
+    "size": [ 142, 45 ],
+    "max_length": 100,
+    "$text_edit_binding_name": "#text_box_item_name",
+    "property_bag": {
+      "#property_field": "#item_name"
+    }
+  },
+
+  "anvil_title_and_text_panel": {
+    "controls": [
+      {
+        "multiline_text_edit_control@anvil_pocket.multiline_text_edit_control": {
+          "offset": [ 0, 8 ]
+        }
+      }
+    ]
+  },
+
+  "anvil_contents_panel/red_cost": {
+    "offset": [ 40, -50 ]
+  },
+
+  "anvil_contents_panel/green_cost": {
+    "offset": [ 40, 20 ]
+  }
+}

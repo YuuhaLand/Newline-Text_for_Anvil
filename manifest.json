@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "金床で改行テキストを使用できます。\nCreated by Yuka0745",
+    "name": "Newline Text for Anvil",
+    "uuid": "40f394fc-f489-46d2-b395-1a2e784ac1da",
+    "version": [ 1, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "85a5db1d-2e8b-4c97-b069-e875a17fc3f9",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
